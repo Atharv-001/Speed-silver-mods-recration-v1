@@ -3,7 +3,7 @@
 	"id": "atmod-v1",
 	"version": "${version}",
 	"name": "Atmod-V1",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "",
 	"authors": [
 		"Me!"
 	],
